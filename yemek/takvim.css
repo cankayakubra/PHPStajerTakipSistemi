@@ -1,0 +1,92 @@
+/* calendar */
+table.calendar	{ border-left:1px solid #999; background-color:#FFF; }
+tr.calendar-row	{ vertical-align:top; min-height:80px !important; height:100%; }
+td.calendar-day	{ min-height:80px; font-size:12px; position:relative; } * html div.calendar-day { height:80px; }
+td.calendar-day:hover	{ background:#eceff5; cursor: pointer;}
+td.calendar-day-np	{ background:#eee; min-height:80px; } * html div.calendar-day-np { height:80px; }
+td.calendar-day-head { background:#ccc; font-weight:bold; text-align:center; width:120px; padding:5px; border-bottom:1px solid #999; border-top:1px solid #999; border-right:1px solid #999; }
+div.day-number		{ color:#fff; font-weight:bold; float:right; margin:-5px -10px  0 0; width:30px; text-align:center;}
+div.today-number	{ background:#09F; padding:5px; color:#fff; font-weight:bold; float:right; margin:-5px -5px 0 0; width:30px; text-align:center; }
+/* shared */
+td.calendar-day, td.calendar-day-np { 
+	  min-width: 100px; min-height:80px !important; height:100%; padding:0px; border-bottom:1px solid #999; border-right:1px solid #999; font-size:16px;
+}
+.btn_day{
+	width:30px;
+	height:30px;
+	color: black;
+    margin-left: -2px; /* -4px */
+    margin-top: -4px; /* 4px*/
+	border-radius: 0px;
+ 	padding:5px 4px 5px 6px;
+}
+.btn_today{
+	width:30px;
+	height:30px;
+	color: white;
+	margin-left: -2px;
+    margin-top: -4px;
+	border-radius: 0px;
+	font-weight:bold;
+}
+.faaliyet{
+	background-color:#c5ddf0; /*/ c5ddf0 */
+	padding:2px;
+	margin:1px;
+	font-size:12px;
+}
+
+.faal_bas{
+	background-color:#0099FF;
+	padding:5px;
+	margin:1px;
+	font-size:16px;
+	font-weight:bold;
+}
+.faal_detay{
+	padding:2px;
+	margin:1px;
+	font-size:12px;
+}
+
+.sergi{
+	background-color:#66FF99; /*/ c5ddf0 */
+	padding:2px;
+	margin:1px;
+}
+.sergi_bas{
+	background-color:#66FF99;
+	padding:5px;
+	margin:1px;
+	font-size:16px;
+	font-weight:bold;
+}
+.konser{
+	background-color:#FF33FF; /*/ c5ddf0 */
+	padding:2px;
+	margin:1px;
+}
+.konser_bas{
+	background-color:#FF33FF;
+	padding:5px;
+	margin:1px;
+	font-size:16px;
+	font-weight:bold;
+}
+.yemek{
+	min-height:80px;
+	height:100%;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.yemek_lst{
+	/*background-color:#c5ddf0; /*/ c5ddf0 */
+	padding:2px;
+	margin:1px;
+	min-height:80px;
+	padding-left: 20px !important;
+	height:100%;
+}
+.yemek_lst li{
+	 text-indent:-4px;
+}

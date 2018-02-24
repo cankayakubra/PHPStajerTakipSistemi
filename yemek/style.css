@@ -1,0 +1,596 @@
+navbar-fixed-top.container{
+	margin-bottom: 50px;
+}
+.container{
+	margin-top:80px;
+	margin-bottom:40px;
+}
+.banner{
+	background-color: #0f7574;
+	border-bottom: 3px #e86122 solid;
+}
+.menu-zindex{
+	z-index:1040;
+}
+.banner-logo{
+	padding: 5px 15px 0 0;
+}
+.banner-text{
+	color: #fff;
+}
+.banner-right{
+	margin-right:0;
+	padding:0;
+}
+.dropdown-menu{
+	z-index: 2000;
+}
+.banner-menu {
+	margin-right:20px;
+}
+.banner-menu >li >a {
+	color: #fff;
+}
+.login-panel{
+	margin-top: 60px;
+}
+.menu{
+	margin-top: 75px;
+	background-color: #fff;
+}
+.menu li:hover{
+	color:#fff;
+	background-color:#e86122;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #fff; /*fff*/
+  background-color: transparent;
+}
+.panel-primary {
+  border-color: #337ab7;
+}
+.panel-green {
+    border-color: #5cb85c;
+}
+.panel-green .panel-heading{
+    border-color: #5cb85c;
+    color: #fff;
+    background-color: #5cb85c;
+}
+.panel-green a{
+    color: #5cb85c;
+}
+.panel-teal {
+    border-color:#00aba9
+}
+.panel-teal .panel-heading{
+    border-color: #00aba9;
+    color: #fff;
+    background-color: #00aba9;
+}
+.panel-teal a{
+    color: #00aba9;
+}
+.panel-yellow {
+    border-color: #f0ad4e;
+}
+.panel-yellow .panel-heading {
+    border-color: #f0ad4e;
+    color: #fff;
+    background-color: #f0ad4e;
+}
+.panel-yellow a{
+    color: #f0ad4e;
+}
+.panel-orange{
+	background-color:#f07611;
+}
+.panel-orange .panel-heading {
+    border-color: #f07611;
+    color: #fff;
+    background-color: #f07611;
+}
+.panel-orange a{
+	color:#f07611;
+}
+.panel-darkblue{
+	background-color:#323a45;
+}
+.panel-darkblue .panel-heading {
+    border-color: #323a45;
+    color: #fff;
+    background-color: #323a45;
+}
+.panel-darkblue a{
+	color:#323a45;
+}
+.panel-red {
+    border-color: #d9534f;
+}
+.panel-red .panel-heading {
+    border-color: #d9534f;
+    color: #fff;
+    background-color: #d9534f;
+}
+.panel-red a {
+    color: #d9534f;
+}
+.panel-red2 {
+    border-color: #e51400;
+}
+.panel-red2 .panel-heading {
+    border-color: #e51400;
+    color: #fff;
+    background-color: #e51400;
+}
+.panel-red2 a {
+    color: #e51400;
+} 
+.panel-darkorange {
+    border-color: #da532c;
+}
+.panel-darkorange .panel-heading {
+    border-color: #da532c;
+    color: #fff;
+    background-color: #da532c;
+}
+.panel-darkorange a {
+    color: #da532c;
+}
+.panel-kahve {
+    border-color: #A05000;
+}
+.panel-kahve .panel-heading {
+    border-color: #A05000;
+    color: #fff;
+    background-color: #A05000;
+}
+.panel-kahve a {
+    color: #A05000;
+}
+.panel-acikkahve {
+    border-color: #666600;
+}
+.panel-acikkahve .panel-heading {
+    border-color: #666600;
+    color: #fff;
+    background-color: #666600;
+}
+.panel-acikkahve a {
+    color: #666600;
+}
+.panel-sari {
+    border-color: #ffc40d;
+}
+.panel-sari .panel-heading {
+    border-color: #ffc40d;
+    color: #fff;
+    background-color: #ffc40d;
+}
+.panel-sari a {
+    color: #ffc40d;
+}
+.panel-yesil {
+    border-color: #1e7145;
+}
+.panel-yesil .panel-heading {
+    border-color: #1e7145;
+    color: #fff;
+    background-color: #1e7145;
+}
+.panel-yesil a {
+    color: #1e7145;
+}
+.panel-lacivert {
+    border-color: #2b5797;
+}
+.panel-lacivert .panel-heading {
+    border-color: #2b5797;
+    color: #fff;
+    background-color: #2b5797;
+}
+.panel-lacivert a {
+    color: #2b5797;
+}
+.panel-mavi {
+    border-color: #2d89ef;
+}
+.panel-mavi .panel-heading {
+    border-color: #2d89ef;
+    color: #fff;
+    background-color: #2d89ef;
+}
+.panel-mavi a {
+    color: #2d89ef;
+}
+.panel-magenta {
+    border-color: #ff0097;
+}
+.panel-magenta .panel-heading {
+    border-color: #ff0097;
+    color: #fff;
+    background-color: #ff0097;
+}
+.panel-magenta a {
+    color: #ff0097;
+}
+.panel-mor {
+    border-color: #7e3878;
+}
+.panel-mor .panel-heading {
+    border-color: #7e3878;
+    color: #fff;
+    background-color: #7e3878;
+}
+.panel-mor a {
+    color: #7e3878;
+}
+.panel-darkred {
+    border-color: #b91d47;
+}
+.panel-darkred .panel-heading {
+    border-color: #b91d47;
+    color: #fff;
+    background-color: #b91d47;
+}
+.panel-darkred a {
+    color: #b91d47;
+}
+/*
+yesil 2b5797
+
+*/
+.panel-right{
+	text-align: right;
+}
+.footer{
+	padding-top: 10px;
+	height: 40px;
+	background-color: #0f7574;
+	border-top: 2px #e86122 solid;
+	text-align: center;
+	color: #fff;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-nav > li > a:hover{
+	color: #000;
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  color: #fff;
+  background-color: #e86122;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #e86122;
+}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: #e86122;
+  border-color: #e86122;
+}
+
+.btn-menu{
+  /*border-radius: 0px;*/
+  margin:1px;
+  height:40px;
+  color: #fff;
+}
+.btn-menu-sm{
+  /*border-radius: 0px;*/
+  margin:1px;
+  padding:1px;
+  height:30px;
+  width:30px;
+  color: #fff;
+}
+.btn-turuncu {
+  color: #fff;
+  background-color: #f07611;
+  border-color: #d36810;
+}
+.btn-turuncu:hover,
+.btn-turuncu:focus,
+.btn-turuncu.focus,
+.btn-turuncu:active,
+.btn-turuncu.active,
+.open > .dropdown-toggle.btn-turuncu {
+  color: #fff;
+  background-color: #d36810;
+  border-color: #d36810;
+}
+.btn-darkblue {
+  color: #fff;
+  background-color: #323a45;
+  border-color: #1c222a;
+}
+.btn-darkblue:hover,
+.btn-darkblue:focus,
+.btn-darkblue.focus,
+.btn-darkblue:active,
+.btn-darkblue.active,
+.open > .dropdown-toggle.btn-darkblue {
+  color: #fff;
+  background-color: #1c222a;
+  border-color: #090c10;
+}
+.btn-teal {
+  color: #fff;
+  background-color: #00aba9;
+  border-color: #099593;
+}
+.btn-teal:hover,
+.btn-teal:focus,
+.btn-teal.focus,
+.btn-teal:active,
+.btn-teal.active,
+.open > .dropdown-toggle.btn-teal {
+  color: #fff;
+  background-color: #099593;
+  border-color: #127a79;
+}
+.btn-kahve {
+  color: #fff;
+  background-color: #A05000;
+  border-color: #7c4107;
+}
+.btn-kahve:hover,
+.btn-kahve:focus,
+.btn-kahve.focus,
+.btn-kahve:active,
+.btn-kahve.active,
+.open > .dropdown-toggle.btn-kahve {
+  color: #fff;
+  background-color: #7c4107;
+  border-color: #643506;
+}
+.btn-darkred {
+  color: #fff;
+  background-color: #b91d47;
+  border-color: #94062d;
+}
+.btn-darkred:hover,
+.btn-darkred:focus,
+.btn-darkred.focus,
+.btn-darkred:active,
+.btn-darkred.active,
+.open > .dropdown-toggle.btn-darkred {
+  color: #fff;
+  background-color: #94062d;
+  border-color: #390110;
+}
+.btn-red {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #bc3632;
+}
+.btn-red:hover,
+.btn-red:focus,
+.btn-redfocus,
+.btn-red:active,
+.btn-red.active,
+.open > .dropdown-toggle.btn-red {
+  color: #fff;
+  background-color: #bc3632;
+  border-color: #941a17;
+}
+.btn-red2 {
+  color: #fff;
+  background-color: #e51400;
+  border-color: #c91402;
+}
+.btn-red2:hover,
+.btn-red2:focus,
+.btn-red2.focus,
+.btn-red2:active,
+.btn-red2.active,
+.open > .dropdown-toggle.btn-red2 {
+  color: #fff;
+  background-color: #c91402;
+  border-color: #910d01;
+}
+.btn-save-red {
+  color: #fff;
+  background-color: #e51400;
+  border-color: #ca1503;
+}
+.btn-save-red:hover,
+.btn-save-red:focus,
+.btn-save-red.focus,
+.btn-save-red:active,
+.btn-save-red.active,
+.open > .dropdown-toggle.btn-save-red {
+  color: #fff;
+  background-color: #ca1503;
+  border-color: #b51203;
+}
+.btn-darkgreen{
+	color: #fff;
+  background-color: #1e7145;
+  border-color: #165f38;
+}
+.btn-darkgreen:hover,
+.btn-darkgreen:focus,
+.btn-darkgreen.focus,
+.btn-darkgreen:active,
+.btn-darkgreen.active,
+.open > .dropdown-toggle.btn-darkgreen {
+  color: #fff;
+  background-color: #165f38;
+  border-color: #0d4728;
+}
+.btn-green{
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #2a882a;
+}
+.btn-green:hover,
+.btn-green:focus,
+.btn-green.focus,
+.btn-green:active,
+.btn-green.active,
+.open > .dropdown-toggle.btn-green {
+  color: #fff;
+  background-color: #2a882a;
+  border-color: #0e550e;
+}
+.btn-mor{
+  color: #fff;
+  background-color: #7e3878;
+  border-color: #6b2a65;
+}
+.btn-mor:hover,
+.btn-mor:focus,
+.btn-mor.focus,
+.btn-mor:active,
+.btn-mor.active,
+.open > .dropdown-toggle.btn-mor {
+  color: #fff;
+  background-color: #6b2a65;
+  border-color: #4e1849;
+}
+.btn-mavi{
+  color: #fff;
+  background-color: #2d89ef;
+  border-color: #2179db;
+}
+.btn-mavi:hover,
+.btn-mavi:focus,
+.btn-mavi.focus,
+.btn-mavi:active,
+.btn-mavi.active,
+.open > .dropdown-toggle.btn-mavi {
+  color: #fff;
+  background-color: #2179db;
+  border-color: #0e63c1;
+}
+.well-ara{
+  min-height: 20px;
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.well-ara .form-horizontal .form-group {
+  margin-bottom: 5px;
+}
+.well-ara .form-horizontal .control-label {
+    padding-top: 2px;
+}
+.panel_link{
+	text-decoration:none;
+	color:#333;
+}
+.yemek_bugun{
+	padding:0 5px 0 10px;
+	height:100px !important;
+}
+.duyuru_bugun{
+	padding:0;
+	height:100px !important;
+	overflow-style:auto;
+	overflow:hidden;
+}
+.icpaydas{
+	width:150px;
+	height:150px;
+	background-color:#FFF;
+	text-align:center;
+	vertical-align:middle;
+	display: table-cell
+}
+.progress-bar{
+	/*color:#000;*/
+}
+
+.panel-ekle{
+	background-color:#efefe9;
+}
+.panel-ekle-heading{
+	background-color:#d9d9c8;
+	font-weight:bold;
+	padding-left:24px;
+}
+.div-tarih{
+	background-color:#FFF;
+	border:1px solid #ccc;
+	border-radius:2px;
+	width:170px;
+	height:30px;
+}
+.input-tarih{
+	border-width:0px 1px 0px 0px;
+	border-right:1px #ccc solid;
+	height:28px;
+	padding-left:5px
+}
+.breadcrump-menu{
+	margin:10px 0 0 0;
+	font-weight:normal;
+}
+.breadcrump-menu li:hover{
+	background-color:transparent !important;
+	color:inherit !important;
+}
+.baglanti{
+	padding-top:5px;
+}
+.btn-icknt{
+	min-width:120px;
+	padding:5px;
+	margin:2px;
+	color:#fff;
+	height:50px;
+}
+.kursiyer-devam > tbody > tr > td, .kursiyer-devam > thead > tr > th {
+	padding:1px;
+	vertical-align:middle;
+	text-align:center;
+}
+
+.ui-dialog-titlebar-close{	
+	display: inline-block;
+  	border: 1px solid transparent;
+  	border-radius: 4px;
+	margin:5px  5px 0 250px ;
+	height:24px;
+	width:24px;
+	background-image:url(../images/delete_sb.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.ui-dialog-title{
+	width:100px;
+}
+.ui-dialog-titlebar{
+	height:0px;
+	
+}
+.file{
+	width:100%;
+}
+::-webkit-file-upload-button {
+  display: inline-block;
+  padding: 3px 12px;
+  margin-bottom: 0;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+::-webkit-file-upload-button:hover,
+::-webkit-file-upload-button:focus{
+  color: #fff;
+  background-color: #286090;
+  border-color: #204d74;
+}
